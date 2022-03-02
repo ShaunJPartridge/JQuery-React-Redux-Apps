@@ -9,3 +9,5 @@ This app will choose a random quote from an array of quote objects and display i
 - BootStrap
 - JQuery
 - React
+## Sources
+- quotes: [famous-quotes](https://blog.hubspot.com/sales/famous-quotes)
