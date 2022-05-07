@@ -16,6 +16,8 @@ This app will choose a random quote from an array of quote objects and display i
 - JQuery
 ## Sources
 - Quotes: [famous-quotes](https://blog.hubspot.com/sales/famous-quotes)
+## Link
+[Random Quote Machine](https://codepen.io/ShaunPartridge/pen/jOaXrBZ)
 ## Screenshots
 <img src="https://github.com/ShaunJPartridge/JQuery-React-Redux-Apps/blob/main/RandomQuoteMachine/Images/Screenshot%20(1).png" height="250" width="450">
 <img src="https://github.com/ShaunJPartridge/JQuery-React-Redux-Apps/blob/main/RandomQuoteMachine/Images/Screenshot%20(2).png" height="250" width="450">
